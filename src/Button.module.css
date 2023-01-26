@@ -1,0 +1,6 @@
+/* style can be also modular in CRA(create react app)*/
+
+.btn {
+    color: white;
+    background-color: aqua;
+}
